@@ -1,11 +1,9 @@
 ## How to Use
 
-1. Accept Location request
+1. Go here: [https://wogified.github.io/seasons_hooks/](https://wogified.github.io/seasons_hooks/). Accept Location request
 2. Right click, click inspect
 3. Click on sensors tab
 4. Select various cities in different hemispheres in the geolocation dropdown menu
-
-[https://wogified.github.io/seasons_hooks/](https://wogified.github.io/seasons_hooks/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
